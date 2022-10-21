@@ -101,5 +101,5 @@
     "lint": "eslint ./src ./test && flow",
     "test": "NODE_TLS_REJECT_UNAUTHORIZED=false NODE_ENV=test nyc ava --verbose --serial"
   },
-  "version": "0.0.0-development"
+  "version": "3.0.0"
 }
