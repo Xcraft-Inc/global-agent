@@ -69,7 +69,7 @@
   ],
   "license": "BSD-3-Clause",
   "main": "./dist/index.js",
-  "name": "global-agent",
+  "name": "epsitec-global-agent",
   "nyc": {
     "all": true,
     "exclude": [
