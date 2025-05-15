@@ -75,14 +75,14 @@
   ],
   "license": "BSD-3-Clause",
   "main": "./dist/index.js",
-  "name": "epsitec-global-agent",
+  "name": "xcraft-global-agent",
   "nyc": {
     "extends": "@istanbuljs/nyc-config-typescript",
     "all": true
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/epsitec-sa/global-agent.git"
+    "url": "git+https://github.com/Xcraft-Inc/global-agent.git"
   },
   "scripts": {
     "build": "del-cli ./dist && tsc",
