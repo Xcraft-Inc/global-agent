@@ -1,9 +1,6 @@
 import http from 'http';
 import https from 'https';
 import {
-  boolean as parseBoolean,
-} from 'boolean';
-import {
   omitUndefined,
 } from 'omit-undefined';
 import semver from 'semver';
@@ -23,6 +20,7 @@ import {
   bindHttpMethod,
   isUrlMatchingNoProxy,
   parseProxyUrl,
+  parseBoolean,
 } from '../utilities';
 import createProxyController from './createProxyController';
 

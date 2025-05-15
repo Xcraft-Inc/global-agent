@@ -7,3 +7,6 @@ export {
 export {
   default as parseProxyUrl,
 } from './parseProxyUrl';
+export {
+  default as parseBoolean,
+} from './parseBoolean';
