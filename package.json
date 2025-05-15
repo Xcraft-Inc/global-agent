@@ -83,7 +83,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gajus/global-agent"
+    "url": "https://github.com/epsitec-sa/global-agent"
   },
   "scripts": {
     "build": "del-cli ./dist && tsc",
