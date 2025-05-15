@@ -1,3 +1,8 @@
+# FORK
+
+- Fix parser for https request.
+- Remove dependency on the deprecated boolean package.
+
 # global-agent
 
 [![Travis build status](http://img.shields.io/travis/gajus/global-agent/master.svg?style=flat-square)](https://travis-ci.org/gajus/global-agent)
